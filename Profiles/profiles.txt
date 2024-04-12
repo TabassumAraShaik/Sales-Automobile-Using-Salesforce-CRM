@@ -1,1 +1,31 @@
+Name of the Student : Shaik Tabassum Ara
+Learning Track : Salesforce - Developer
+Project Name : Sales Automobile Using Salesforce CRM
+Trailhead Profile : https://www.salesforce.com/trailblazer/tabassumarashaik
+Developer Org Username : sonushaik1625@gdcproject.com
+Developer Org Password : Gayatri@123
+Position : Team Lead
 
+Name of the Student : Shaik Kashifa
+Learning Track : Salesforce - Developer
+Project Name : Sales Automobile Using Salesforce CRM
+Trailhead Profile : https://www.salesforce.com/trailblazer/kashifashaik
+Developer Org Username : kashifashaik2003@gdcproject.com
+Developer Org Password : Gayatri@123
+Position : Team Member
+
+Name of the Student : Sirigiri Harshitha
+Learning Track : Salesforce - Developer
+Project Name : Sales Automobile Using Salesforce CRM
+Trailhead Profile : https://www.salesforce.com/trailblazer/harshithasirigiri
+Developer Org Username : sirigiriharshitha.22@gdcproject.com
+Developer Org Password : Gayatri@123
+Position : Team Member
+
+Name of the Student : Kokkanti Lavanya
+Learning Track : Salesforce - Admin
+Project Name : Sales Automobile Using Salesforce CRM
+Trailhead Profile : https://www.salesforce.com/trailblazer/lavanyakokkanti
+Developer Org Username : lavanyakokkanti@gdctirupati.com
+Developer Org Password : Gayatri@123
+Position : Team Member
