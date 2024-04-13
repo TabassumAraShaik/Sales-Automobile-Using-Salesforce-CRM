@@ -14,7 +14,7 @@ Developer Org Username : kashifashaik2003@gdcproject.com
 Developer Org Password : Gayatri@123
 Position : Team Member
 
-Name of the Student : Sirigiri Harshitha
+Name of the Student : S Harshitha
 Learning Track : Salesforce - Developer
 Project Name : Sales Automobile Using Salesforce CRM
 Trailhead Profile : https://www.salesforce.com/trailblazer/harshithasirigiri
