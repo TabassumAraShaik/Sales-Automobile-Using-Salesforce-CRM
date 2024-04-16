@@ -2,7 +2,7 @@ Name of the Student : Shaik Tabassum Ara
 Learning Track : Salesforce - Developer
 Project Name : Sales Automobile Using Salesforce CRM
 Trailhead Profile : https://www.salesforce.com/trailblazer/tabassumarashaik
-Developer Org Username : sonushaik1625@gdcproject.com
+Developer Org Username : sonushaik1625@ltgdcproject.com
 Developer Org Password : Gayatri@123
 Position : Team Lead
 
